@@ -1,0 +1,23 @@
+{
+  "name": "hello-javascript",
+  "version": "1.0.0",
+  "description": "A sample JavaScript app to use in testing new infrastructure.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kchymet/hello-javascript.git"
+  },
+  "author": "Kyle Chynoweth",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Kchymet/hello-javascript/issues"
+  },
+  "homepage": "https://github.com/Kchymet/hello-javascript#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
